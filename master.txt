@@ -1,2 +1,3 @@
 This is my first file
-welcome to term2
+welcome to term2 
+st2
